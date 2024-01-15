@@ -43,11 +43,14 @@ Description:
 Explains the concept of currying in JavaScript.
 Demonstrates how to create partially applied functions using currying.
 
-How to Use
+How to Use.
+
 1.Clone the repository to your local machine:
   git clone https://github.com/your-username/javascript-code-samples.git
+  
 2.Navigate to the specific code snippet you are interested in:
   cd javascript-code-samples
+  
 3.Open the corresponding JavaScript file in your preferred code editor.
 4.Read the comments and explanations within the code file to understand the concepts being demonstrated.
 
