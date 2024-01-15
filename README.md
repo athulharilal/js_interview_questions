@@ -42,20 +42,14 @@ File: currying_in_javascript.js
 Description:
 Explains the concept of currying in JavaScript.
 Demonstrates how to create partially applied functions using currying.
+
 How to Use
-Clone the repository to your local machine:
-
-bash
-Copy code
-git clone https://github.com/your-username/javascript-code-samples.git
-Navigate to the specific code snippet you are interested in:
-
-bash
-Copy code
-cd javascript-code-samples
-Open the corresponding JavaScript file in your preferred code editor.
-
-Read the comments and explanations within the code file to understand the concepts being demonstrated.
+1.Clone the repository to your local machine:
+  git clone https://github.com/your-username/javascript-code-samples.git
+2.Navigate to the specific code snippet you are interested in:
+  cd javascript-code-samples
+3.Open the corresponding JavaScript file in your preferred code editor.
+4.Read the comments and explanations within the code file to understand the concepts being demonstrated.
 
 Creator
 This repository was created by Nisham Mahsin.
