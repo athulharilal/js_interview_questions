@@ -59,6 +59,7 @@ Read the comments and explanations within the code file to understand the concep
 
 Creator
 This repository was created by Nisham Mahsin.
+https://www.linkedin.com/in/nisham-mahsin-79004256/
 
 Feel free to explore and use these code samples to enhance your understanding of JavaScript concepts.
 
