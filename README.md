@@ -57,4 +57,8 @@ Open the corresponding JavaScript file in your preferred code editor.
 
 Read the comments and explanations within the code file to understand the concepts being demonstrated.
 
+Creator
+This repository was created by Nisham Mahsin.
+
 Feel free to explore and use these code samples to enhance your understanding of JavaScript concepts.
+
